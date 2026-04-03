@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="ci-cd.yml" />
+  </Folder>
+  <Project Path="DemoAPI/DemoAPI.csproj" />
+</Solution>
